@@ -1,6 +1,6 @@
 {
     "version": "4.4.3-18663434",
-    "description": "VMware Open Virtualization Format Tool",
+    "description": "VMware Open Virtualization Format Tool (ovftool)",
     "homepage": "https://developer.vmware.com/tool/ovf",
     "license": "Proprietary",
     "extract_dir": "ovftool",
