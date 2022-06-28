@@ -1,0 +1,15 @@
+{
+    "version": "4.4.3-18663434",
+    "description": "VMware Open Virtualization Format Tool",
+    "homepage": "https://developer.vmware.com/tool/ovf",
+    "license": "Proprietary",
+    "extract_dir": "ovftool",
+    "bin": "ovftool.exe",
+    "notes": "Installers are located in the local IIS @ C:\\inetpub\\wwwroot",
+    "architecture": {
+        "64bit": {
+            "url": "http://localhost/installers/ovftool/4.4.3-18663434/VMware-ovftool-4.4.3-18663434-win.x86_64.zip",
+            "hash": "md5:1f8a33d9f74e3df9ac0918e701406434"
+        }
+    }
+}
